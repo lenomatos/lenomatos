@@ -5,10 +5,11 @@
 
 <img class="ml-auto mr-auto" width="800" height="400" src="https://github.com/lenomatos/lenomatos/blob/main/assets/ezgif.com-gif-maker.gif">
 
-<sub> </sub>
+
 <div class="container">
   <div class="row">
-    <div class="col-sm">           
+    <div class="col-sm">
+    <sub> </sub>      
       - 🙏 Working hard to achieve my goals
       - 💼 I’m currently working as a software developer
       - 📚 I’m currently learning <img alt="ReactJs" title="ReactJs" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
