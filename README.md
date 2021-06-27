@@ -6,9 +6,21 @@
 <img class="ml-auto mr-auto" width="800" height="400" src="https://github.com/lenomatos/lenomatos/blob/main/assets/ezgif.com-gif-maker.gif">
 
 <sub> </sub>
-- 🙏 Working hard o achieve my goals
-- 💼 I’m currently working as a software developer
-- 📚 I’m currently learning <img alt="ReactJs" title="ReactJs" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<div class="container">
+  <div class="row">
+    <div class="col-sm">           
+      - 🙏 Working hard to achieve my goals
+      - 💼 I’m currently working as a software developer
+      - 📚 I’m currently learning <img alt="ReactJs" title="ReactJs" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+    </div>
+    <div class="col-sm">      
+      <!-- Trophies -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lenomatos&theme=flat&title=MultiLanguage,Commit,Followers,PullRequest,Stars" width="760" alt="lenomatos" /></a></p>     
+    </div>
+  </div>
+</div>
+
+
 
 - 🏆 I’m improving my skills in <img alt="CSharp" title="C Sharp" height="24" src="https://user-images.githubusercontent.com/57419630/122697755-61ffbf80-d21c-11eb-901a-a3c4220f3ecf.png"> 
 
@@ -26,8 +38,7 @@
 <p></p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=motirck&theme=monokai" alt="motirck" height="158"/>
 
-<!-- Trophies -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lenomatos&theme=highcontrast&title=MultiLanguage,Commit,Followers,PullRequest,Stars" width="760" alt="lenomatos" /></a> </p>
+
 
 
 ⚡ Fun fact: 
