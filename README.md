@@ -1,3 +1,7 @@
+
+<img align="center" width="400" height="400" src="https://github.com/lenomatos/lenomatos/blob/master/assets/ezgif.com-gif-maker.gif">
+
+
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lenomatos/lenomatos)
