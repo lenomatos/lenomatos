@@ -8,7 +8,8 @@
 <sub>ㅤ</sub>
 
 - 🔭 I’m currently working as a software developer
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning <img alt="ReactJs" title="ReactJs" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lenomatos)](https://github.com/lenomatos/github-readme-stats)
 
