@@ -5,31 +5,41 @@
 
 <img class="ml-auto mr-auto" width="800" height="400" src="https://github.com/lenomatos/lenomatos/blob/main/assets/ezgif.com-gif-maker.gif">
 
-<sub>ㅤ</sub>
+<sub> </sub>
+- 🙏 Working hard o achieve my goals
+- 💼 I’m currently working as a software developer
+- 📚 I’m currently learning <img alt="ReactJs" title="ReactJs" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 
-- 🔭 I’m currently working as a software developer
-- 🌱 I’m currently learning <img alt="ReactJs" title="ReactJs" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+- 🏆 I’m improving my skills in <img alt="CSharp" title="C Sharp" height="24" src="https://user-images.githubusercontent.com/57419630/122697755-61ffbf80-d21c-11eb-901a-a3c4220f3ecf.png"> 
 
-<!--
+<!-- TODO: 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lenomatos)](https://github.com/lenomatos/github-readme-stats)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenomatos&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=highcontrast" />
 -->
-
+<!-- Vertical Spacer -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenomatos&layout=compact)](https://github.com/lenomatos/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenomatos&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <!-- Vertical Spacer -->
-⚡ Fun fact: tentando melhorar o profile aqui... 😄😄😄
+<p></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=motirck&theme=monokai" alt="motirck" height="158"/>
+
+<!-- Trophies -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lenomatos&theme=highcontrast&title=MultiLanguage,Commit,Followers,PullRequest,Stars" width="760" alt="lenomatos" /></a> </p>
 
 
+⚡ Fun fact: 
+    - I'm trying to improve my profile here ... 😜
+    
+
+<!--
 ### Some technologies I like...
-<code><img alt="VSCode" title="VSCode" height="48" src="https://user-images.githubusercontent.com/57419630/122802342-a2eae900-d29b-11eb-9f8a-d492a84716c8.png"></code>
-<code><img alt="Github" title="Github" height="48" src="https://user-images.githubusercontent.com/57419630/122800074-e2640600-d298-11eb-975a-5cbe097786c4.png"></code>
-<code><img alt="Sass" title="Sass" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></code> 
-<code><img alt="Bootstrap" height="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+ <code><img alt="VSCode" title="VSCode" height="24" src="https://user-images.githubusercontent.com/57419630/122802342-a2eae900-d29b-11eb-9f8a-d492a84716c8.png"></code>
+<code><img alt="Github" title="Github" height="24" src="https://user-images.githubusercontent.com/57419630/122800074-e2640600-d298-11eb-975a-5cbe097786c4.png"></code>
+<code><img alt="Sass" title="Sass" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></code> 
+<code><img alt="Bootstrap" height="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> -->
 
 <!--
 **lenomatos/lenomatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
