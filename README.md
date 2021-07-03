@@ -5,11 +5,9 @@
  
 I'm a computer scientist that enjoy coding. 
 
-
-  <p>
-    <img align='right' width="400" height="200" src="https://github.com/lenomatos/lenomatos/blob/main/assets/ezgif.com-gif-maker.gif">
-  </p>
-<sub></sub>
+<img align='right' width="400" height="200" src="https://github.com/lenomatos/lenomatos/blob/main/assets/ezgif.com-gif-maker.gif">
+  
+<sub> </sub>
 ⚡ Fun fact: 
   - I'm trying to improve my profile here ... 😜
   - 🙏 Working hard to achieve my goals
