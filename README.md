@@ -35,8 +35,7 @@ I'm a computer scientist that enjoy coding.
 <code><img alt="Sass" title="Sass" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></code> 
 <code><img alt="Bootstrap" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img alt="Js" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img alt="Github" title="Github" height="24" src="https://user-images.githubusercontent.com/57419630/122800074-e2640600-d298-11eb-975a-5cbe097786c4.png">
-
+<code><img alt="Github" title="Github" height="24" src="https://user-images.githubusercontent.com/57419630/122800074-e2640600-d298-11eb-975a-5cbe097786c4.png"></code>
 
 
 <!-- Trophies -->
@@ -48,13 +47,6 @@ I'm a computer scientist that enjoy coding.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenomatos&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=highcontrast" />
 -->
-
-
-
-    
-
-
-
 
 
 <!--
