@@ -16,6 +16,7 @@ I'm a computer scientist that enjoy coding.
   - 👌 I’m improving my skills in <img alt="CSharp" title="C Sharp" height="24" src="https://user-images.githubusercontent.com/57419630/122697755-61ffbf80-d21c-11eb-901a-a3c4220f3ecf.png">
 
 <p></p>
+
 ---
 
 <!-- Vertical Spacer -->
