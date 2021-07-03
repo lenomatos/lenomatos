@@ -10,26 +10,32 @@ I'm a computer scientist that enjoy coding.
 <sub> </sub>
 ⚡ Fun fact: 
   - I'm trying to improve my profile here ... 😜
-  - 🙏 Working hard to achieve my goals
+  - 🏆 Working hard to achieve my goals
   - 💼 I’m currently working as a software developer
   - 📚 I’m currently learning <img alt="ReactJs" title="ReactJs" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-  - 🏆 I’m improving my skills in <img alt="CSharp" title="C Sharp" height="24" src="https://user-images.githubusercontent.com/57419630/122697755-61ffbf80-d21c-11eb-901a-a3c4220f3ecf.png">
+  - 👌 I’m improving my skills in <img alt="CSharp" title="C Sharp" height="24" src="https://user-images.githubusercontent.com/57419630/122697755-61ffbf80-d21c-11eb-901a-a3c4220f3ecf.png">
 
+<p></p>
 ---
+
 <!-- Vertical Spacer -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenomatos&layout=compact)](https://github.com/lenomatos/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenomatos&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Vertical Spacer -->
+--- 
 <p></p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=motirck&theme=monokai" alt="motirck" height="158"/>
 
 ### Some technologies I like...
- <code><img alt="VSCode" title="VSCode" height="24" src="https://user-images.githubusercontent.com/57419630/122802342-a2eae900-d29b-11eb-9f8a-d492a84716c8.png"></code>
-<code><img alt="Github" title="Github" height="24" src="https://user-images.githubusercontent.com/57419630/122800074-e2640600-d298-11eb-975a-5cbe097786c4.png"></code>
+<code><img alt="VSCode" title="VSCode" height="24" src="https://user-images.githubusercontent.com/57419630/122802342-a2eae900-d29b-11eb-9f8a-d492a84716c8.png"></code>
+<code><img alt="HTML" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img alt="CSS" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img alt="Sass" title="Sass" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></code> 
 <code><img alt="Bootstrap" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img alt="Js" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img alt="Github" title="Github" height="24" src="https://user-images.githubusercontent.com/57419630/122800074-e2640600-d298-11eb-975a-5cbe097786c4.png">
 
 
 
