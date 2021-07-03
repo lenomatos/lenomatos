@@ -8,7 +8,7 @@ I'm a computer scientist that enjoy coding.
 <img align='right' width="400" height="200" src="https://github.com/lenomatos/lenomatos/blob/main/assets/ezgif.com-gif-maker.gif">
   
 <sub> </sub>
-⚡ Fun fact: 
+⚡ Facts: 
   - I'm trying to improve my profile here ... 😜
   - 🏆 Working hard to achieve my goals
   - 💼 I’m currently working as a software developer
