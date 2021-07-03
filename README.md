@@ -11,6 +11,9 @@
   - 📚 I’m currently learning <img alt="ReactJs" title="ReactJs" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
   - 🏆 I’m improving my skills in <img alt="CSharp" title="C Sharp" height="24" src="https://user-images.githubusercontent.com/57419630/122697755-61ffbf80-d21c-11eb-901a-a3c4220f3ecf.png"> 
 
+<img align='left' width="400" height="200" src="https://github.com/lenomatos/lenomatos/blob/main/assets/ezgif.com-gif-maker.gif">
+
+---
 <!-- Vertical Spacer -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenomatos&layout=compact)](https://github.com/lenomatos/github-readme-stats)
 
@@ -27,7 +30,6 @@
 <code><img alt="Bootstrap" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 
-<img class="ml-auto mr-auto" width="800" height="400" src="https://github.com/lenomatos/lenomatos/blob/main/assets/ezgif.com-gif-maker.gif">
 
 <!-- Trophies -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lenomatos&theme=flat&title=MultiLanguage,Commit,Followers,PullRequest,Stars" width="760" alt="lenomatos" /></a></p>      -->
