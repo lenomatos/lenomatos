@@ -76,14 +76,10 @@ I actively use AI tools to improve software architecture, productivity, code rev
 ## 📈 GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lenomatos&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenomatos&layout=compact&theme=tokyonight"/>
-</p>
-
-<p>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=lenomatos&theme=tokyonight"/>
 </p>
+
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lenomatos&theme=tokyonight" /></p>
 
 ---
 
