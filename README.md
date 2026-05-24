@@ -1,4 +1,3 @@
-```md
 # Hi there 👋
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=lenomatos/lenomatos" />
@@ -104,4 +103,3 @@ I actively use AI tools to improve software architecture, productivity, code rev
 - 🚀 Always learning new technologies and workflows
 
 Thanks for visiting my profile 👨‍💻
-```
