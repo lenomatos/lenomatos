@@ -1,11 +1,14 @@
-# Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lenomatos&style=for-the-badge&color=blueviolet)
 
+<img align="right" width="300"  src="https://github.com/lenomatos/lenomatos/blob/main/assets/ezgif.com-gif-maker.gif"> 
 
 I'm a Software Engineer passionate about building scalable applications, improving architectures, and creating modern development workflows with AI-assisted engineering.
 
 I enjoy working across backend, frontend, cloud, and developer experience — always trying to balance clean architecture, performance, and practical solutions.
+
+<br clear="right"/>
 
 ---
 
