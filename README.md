@@ -1,6 +1,7 @@
 # Hi there 👋
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=lenomatos/lenomatos" />
+![Profile Views](https://komarev.com/ghpvc/?username=lenomatos&style=for-the-badge&color=blueviolet)
+
 
 I'm a Software Engineer passionate about building scalable applications, improving architectures, and creating modern development workflows with AI-assisted engineering.
 
