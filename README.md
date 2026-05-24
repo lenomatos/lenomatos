@@ -1,68 +1,107 @@
+```md
+# Hi there 👋
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+<img src="https://visitor-badge.glitch.me/badge?page_id=lenomatos/lenomatos" />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lenomatos/lenomatos)
- 
-I'm a computer scientist that enjoy coding. 
+I'm a Software Engineer passionate about building scalable applications, improving architectures, and creating modern development workflows with AI-assisted engineering.
 
-<img align='right' width="400" height="200" src="https://github.com/lenomatos/lenomatos/blob/main/assets/ezgif.com-gif-maker.gif">
-  
-<sub> </sub>
-⚡ Facts: 
-  - I'm trying to improve my profile here ... 😜
-  - 🏆 Working hard to achieve my goals
-  - 💼 I’m currently working as a software developer
-  - 📚 I’m currently learning <img alt="ReactJs" title="ReactJs" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-  - 👌 I’m improving my skills in <img alt="CSharp" title="C Sharp" height="24" src="https://user-images.githubusercontent.com/57419630/122697755-61ffbf80-d21c-11eb-901a-a3c4220f3ecf.png">
-
-<p></p>
+I enjoy working across backend, frontend, cloud, and developer experience — always trying to balance clean architecture, performance, and practical solutions.
 
 ---
 
-<!-- Vertical Spacer -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenomatos&layout=compact)](https://github.com/lenomatos/github-readme-stats)
+## 🚀 About Me
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenomatos&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+- 💼 Software Developer focused on backend and full-stack development
+- 🧠 Exploring AI Engineering, prompt engineering, and AI-assisted workflows
+- ⚙️ Working with modern architectures, APIs, microservices, and cloud solutions
+- 📚 Constantly learning and improving both technical and soft skills
+- 🎯 Focused on building real-world and production-ready applications
 
-<!-- Vertical Spacer -->
---- 
-<p></p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=motirck&theme=monokai" alt="motirck" height="158"/>
+---
 
-### Some technologies I like...
-<code><img alt="VSCode" title="VSCode" height="24" src="https://user-images.githubusercontent.com/57419630/122802342-a2eae900-d29b-11eb-9f8a-d492a84716c8.png"></code>
-<code><img alt="HTML" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img alt="CSS" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img alt="Sass" title="Sass" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></code> 
-<code><img alt="Bootstrap" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img alt="Js" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img alt="Github" title="Github" height="24" src="https://user-images.githubusercontent.com/57419630/122800074-e2640600-d298-11eb-975a-5cbe097786c4.png"></code>
+## 🧩 Tech Stack
 
+### AI & Developer Workflow
 
-<!-- Trophies -->
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lenomatos&theme=flat&title=MultiLanguage,Commit,Followers,PullRequest,Stars" width="760" alt="lenomatos" /></a></p>      -->
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![AI Engineering](https://img.shields.io/badge/AI--Assisted_Engineering-111827?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-5B21B6?style=for-the-badge)
 
+### Backend
 
-<!-- TODO: 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lenomatos)](https://github.com/lenomatos/github-readme-stats)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenomatos&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=highcontrast" />
--->
+### Frontend
 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-<!--
-**lenomatos/lenomatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DevOps & Tools
 
-Here are some ideas to get you started:
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 AI Engineering & Workflow
 
+I actively use AI tools to improve software architecture, productivity, code review, documentation, debugging, and project acceleration.
 
+### Current AI Workflow
+
+- Claude
+- GitHub Copilot
+- ChatGPT
+- AI-assisted architecture reviews
+- Prompt engineering for development workflows
+- AI-powered learning and refactoring strategies
+
+### Areas of Interest
+
+- AI-assisted software engineering
+- Modular architectures
+- Developer productivity
+- Intelligent workflows for large-scale projects
+
+---
+
+## 📈 GitHub Stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lenomatos&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenomatos&layout=compact&theme=tokyonight"/>
+</p>
+
+<p>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=lenomatos&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Clean Architecture & DDD
+- Microservices with .NET
+- AI-assisted development workflows
+- Cloud-native applications
+- Better UX for developers and users
+
+---
+
+## 📫 Let's Connect
+
+- 💼 Open to collaboration and interesting projects
+- 🚀 Always learning new technologies and workflows
+
+Thanks for visiting my profile 👨‍💻
+```
